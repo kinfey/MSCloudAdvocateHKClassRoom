@@ -6,7 +6,7 @@
 <br/>
 
 
-1. 2021年11月5號 Python程式語言 
+1. 2021年11月5號 Python程式語言 (<a hreft="https://github.com/kinfey/MSCloudAdvocateHKClassRoom">https://github.com/kinfey/MSCloudAdvocateHKClassRoom</a>)
 
 2. 2021年11月12號 Python Backend 入門
 
@@ -25,7 +25,7 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br>
 
 
-1. 2021-11-05 Python programming language
+1. 2021-11-05 Python programming language (<a hreft="https://github.com/kinfey/MSCloudAdvocateHKClassRoom">https://github.com/kinfey/MSCloudAdvocateHKClassRoom</a>)
 
 2. 2021-11-12 Getting started with Python Backend on 
 
