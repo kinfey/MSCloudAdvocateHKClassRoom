@@ -14,7 +14,7 @@
 
 <br/>
 <b>獲取相關資源</b><br/>
-<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111</a>
+<a href="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://github.com/kinfey/https://www.youtube.com/watch?v=IEXjnhXwcmI</a>
 <br/><br/>
 
 # **Microsoft Cloud Advocate Online School**
