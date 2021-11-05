@@ -25,7 +25,7 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br>
 
 
-1. 2021-11-05 Python programming language (<a hreft="https://github.com/kinfey/MSCloudAdvocateHKClassRoom">https://github.com/kinfey/MSCloudAdvocateHKClassRoom</a>)
+1. 2021-11-05 Python programming language (<a hreft="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
 
 2. 2021-11-12 Getting started with Python Backend on 
 
@@ -34,7 +34,7 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br/>
 <b>Get Resources</b>
 <br/>
-<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111</a>
+<a href="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://github.com/kinfey/https://www.youtube.com/watch?v=IEXjnhXwcmI</a>
 <br/><br/>
 
 
