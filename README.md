@@ -29,6 +29,13 @@ Chatbot部分
 （<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL</a>）
 
 
+<br/>
+<b>獲取實驗手冊</b>
+<br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL/pdf">點擊獲取</a>
+<br/><br/>
+
+
 # **Microsoft Cloud Advocate Online School**
 
 Beginning in November 2021, the Microsoft Cloud Advocate online school is launched, providing a series of online learning courses for program developers, students, and friends who are interested in participating in technological innovation in Hong Kong. Every month, there will be a technical topic, which will be shared in our local language, so remember to pay attention to it. We will be live broadcast by the Microsoft Reactor Youtube Channel. Please remember to watch it online. Of course, we will have the On Demand function for your convenience, so that you can review all the courses. Remember to participate on time every Friday afternoon from 15:30-16:30 Hong Kong time.
@@ -57,6 +64,14 @@ About Azure Cognitive Service Hands On Lab，including Computer Vision and Chatb
 Chatbot
 
 （<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL</a>）
+
+
+
+<br/>
+<b>Get Hands on Lab book</b>
+<br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL/pdf">Click Here</a>
+<br/><br/>
 
 
  
