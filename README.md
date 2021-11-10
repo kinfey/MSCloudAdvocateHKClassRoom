@@ -12,10 +12,22 @@
 
 3. 2021年11月19號 Python與Machine Learning 
 
+
+
 <br/>
 <b>獲取相關資源</b><br/>
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage</a>
 <br/><br/>
+
+
+### **2021年11月  Azure Cognitive Service 動手實驗**
+
+關於Azure Cognitive Service 知識的動手實驗，包括Computer Vision和Chatbot部分 
+
+Chatbot部分
+
+（<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL</a>）
+
 
 # **Microsoft Cloud Advocate Online School**
 
@@ -36,6 +48,15 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br/>
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage</a>
 <br/><br/>
+
+
+### **Azure Cognitive Service Hands On Lab in November 2021**
+
+About Azure Cognitive Service Hands On Lab，including Computer Vision and Chatbot
+
+Chatbot
+
+（<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL</a>）
 
 
  
