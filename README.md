@@ -24,7 +24,19 @@
 
 關於Azure Cognitive Service 知識的動手實驗，包括Computer Vision和Chatbot部分 
 
-Chatbot部分
+
+**ComputerVision部分**
+
+（<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AAzureComputerVisionHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureComputerVisionHOL</a>）
+
+
+<br/>
+<b>獲取實驗手冊</b>
+<br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureComputerVisionHOL/code">點擊獲取</a>
+<br/><br/>
+
+**Chatbot部分**
 
 （<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL</a>）
 
@@ -61,7 +73,22 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 
 About Azure Cognitive Service Hands On Lab，including Computer Vision and Chatbot
 
-Chatbot
+
+
+**ComputerVision**
+
+
+（<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AAzureComputerVisionHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureComputerVisionHOL</a>）
+
+
+
+<br/>
+<b>Get Hands on Lab book</b>
+<br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureComputerVisionHOL/code">Click  Here</a>
+<br/><br/>
+
+**Chatbot**
 
 （<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/AzureChatbotHOL</a>）
 
