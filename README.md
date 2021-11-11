@@ -26,7 +26,7 @@
 
 **Slides 下載**  
 
-<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf“>https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf</a>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf</a>
 
 
 **ComputerVision部分**
@@ -79,7 +79,7 @@ About Azure Cognitive Service Hands On Lab，including Computer Vision and Chatb
 
 **Download Slides：**
 
-<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf“>https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf</a>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf</a>
 
 
 
