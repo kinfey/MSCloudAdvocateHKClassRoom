@@ -24,6 +24,10 @@
 
 關於Azure Cognitive Service 知識的動手實驗，包括Computer Vision和Chatbot部分 
 
+**Slides 下載**  
+
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf“>https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf</a>
+
 
 **ComputerVision部分**
 
@@ -72,6 +76,10 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 ### **Azure Cognitive Service Hands On Lab in November 2021**
 
 About Azure Cognitive Service Hands On Lab，including Computer Vision and Chatbot
+
+**Download Slides：**
+
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf“>https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/AzureCogntiveServiceHandsOnLabHK_202111/silides/AzureCognitiveServiceHOL.pdf</a>
 
 
 
