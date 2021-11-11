@@ -6,9 +6,9 @@
 <br/>
 
 
-1. 2021年11月5號 Python程式語言 (<a hreft="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
+1. 2021年11月5號 Python程式語言 (<a href="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
 
-2. 2021年11月12號 Python Backend 入門
+2. 2021年11月12號 Python Backend 入門（<a href="https://www.youtube.com/watch?v=nahy2jltz6M">https://www.youtube.com/watch?v=nahy2jltz6M</a>）
 
 3. 2021年11月19號 Python與Machine Learning 
 
@@ -60,9 +60,9 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br>
 
 
-1. 2021-11-05 Python programming language (<a hreft="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
+1. 2021-11-05 Python programming language (<a href="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
 
-2. 2021-11-12 Getting started with Python Backend on 
+2. 2021-11-12 Getting started with Python Backend on （<a href="https://www.youtube.com/watch?v=nahy2jltz6M">https://www.youtube.com/watch?v=nahy2jltz6M</a>）
 
 3. 2021-11-19 Python and Machine Learning
 
