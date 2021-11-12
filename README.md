@@ -8,16 +8,24 @@
 
 1. 2021年11月5號 Python程式語言 (<a href="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
 
-2. 2021年11月12號 Python Backend 入門（<a href="https://www.youtube.com/watch?v=nahy2jltz6M">https://www.youtube.com/watch?v=nahy2jltz6M</a>）
-
-3. 2021年11月19號 Python與Machine Learning 
-
-
 
 <br/>
 <b>獲取相關資源</b><br/>
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage</a>
 <br/><br/>
+
+2. 2021年11月12號 Python Backend 入門（<a href="https://www.youtube.com/watch?v=nahy2jltz6M">https://www.youtube.com/watch?v=nahy2jltz6M</a>）
+
+
+<br/>
+<b>獲取相關資源</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro</a>
+<br/><br/>
+
+3. 2021年11月19號 Python與Machine Learning 
+
+
+
 
 
 ### **2021年11月  Azure Cognitive Service 動手實驗**
@@ -62,15 +70,23 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 
 1. 2021-11-05 Python programming language (<a href="https://www.youtube.com/watch?v=IEXjnhXwcmI">https://www.youtube.com/watch?v=IEXjnhXwcmI</a>)
 
-2. 2021-11-12 Getting started with Python Backend on （<a href="https://www.youtube.com/watch?v=nahy2jltz6M">https://www.youtube.com/watch?v=nahy2jltz6M</a>）
-
-3. 2021-11-19 Python and Machine Learning
 
 <br/>
 <b>Get Resources</b>
 <br/>
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/01.PythonLanguage</a>
 <br/><br/>
+
+2. 2021-11-12 Getting started with Python Backend on （<a href="https://www.youtube.com/watch?v=nahy2jltz6M">https://www.youtube.com/watch?v=nahy2jltz6M</a>）
+
+
+<br/>
+<b>Get Resources</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro</a>
+<br/><br/>
+
+3. 2021-11-19 Python and Machine Learning
+
 
 
 ### **Azure Cognitive Service Hands On Lab in November 2021**
