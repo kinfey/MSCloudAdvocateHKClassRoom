@@ -22,9 +22,13 @@
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro</a>
 <br/><br/>
 
-3. 2021年11月19號 Python與Machine Learning 
+3. 2021年11月19號 Python與Machine Learning （<a href="https://www.youtube.com/watch?v=tkCj1p3dj0c">https://www.youtube.com/watch?v=tkCj1p3dj0c</a>）
 
 
+<br/>
+<b>獲取相關資源</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/03.MachineLearning">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/03.MachineLearning</a>
+<br/><br/>
 
 
 
@@ -60,6 +64,8 @@
 <br/><br/>
 
 
+
+
 # **Microsoft Cloud Advocate Online School**
 
 Beginning in November 2021, the Microsoft Cloud Advocate online school is launched, providing a series of online learning courses for program developers, students, and friends who are interested in participating in technological innovation in Hong Kong. Every month, there will be a technical topic, which will be shared in our local language, so remember to pay attention to it. We will be live broadcast by the Microsoft Reactor Youtube Channel. Please remember to watch it online. Of course, we will have the On Demand function for your convenience, so that you can review all the courses. Remember to participate on time every Friday afternoon from 15:30-16:30 Hong Kong time.
@@ -85,7 +91,13 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/02.FlaskIntro</a>
 <br/><br/>
 
-3. 2021-11-19 Python and Machine Learning
+3. 2021-11-19 Python and Machine Learning （<a href="https://www.youtube.com/watch?v=tkCj1p3dj0c">https://www.youtube.com/watch?v=tkCj1p3dj0c</a>）
+
+
+<br/>
+<b>Get Resources</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/03.MachineLearning">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Python_202111/03.MachineLearning</a>
+<br/><br/>
 
 
 
