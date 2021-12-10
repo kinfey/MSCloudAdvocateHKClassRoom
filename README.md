@@ -16,7 +16,15 @@
 <br/><br/>
 
 
-1. 2021年12月10號 PyTorch應用 (<a href="https://www.youtube.com/watch?v=TEv1pDR1rcs">https://www.youtube.com/watch?v=TEv1pDR1rcs</a>)
+2. 2021年12月10號 PyTorch應用 (<a href="https://www.youtube.com/watch?v=TEv1pDR1rcs">https://www.youtube.com/watch?v=TEv1pDR1rcs</a>)
+   
+
+<br/>
+<b>獲取相關資源</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/PyTorch_202112/1210/code">code</a>
+<br/><br/>
+
+
 
 ### **2021年11月  Python入門**
 <br/>
@@ -101,6 +109,13 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 
 
 2. 2021-12-10 PyTorch Application (<a href="https://www.youtube.com/watch?v=TEv1pDR1rcs">https://www.youtube.com/watch?v=TEv1pDR1rcs</a>)
+
+
+
+<br/>
+<b>Get Resources</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/PyTorch_202112/1210/code">code</a>
+<br/><br/>
 
 
 ## **Introduction to Python in November 2021**
