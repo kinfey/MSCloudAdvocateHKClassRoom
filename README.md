@@ -15,6 +15,9 @@
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/PyTorch_202112/01.LearnTorch.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/PyTorch_202112/01.LearnTorch.pdf</a>
 <br/><br/>
 
+
+1. 2021年12月10號 PyTorch應用 (<a href="https://www.youtube.com/watch?v=TEv1pDR1rcs">https://www.youtube.com/watch?v=TEv1pDR1rcs</a>)
+
 ### **2021年11月  Python入門**
 <br/>
 
@@ -87,7 +90,7 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br>
 
 
-1. 2021-12-03 Python programming language (<a href="hhttps://www.youtube.com/watch?v=ALcvbtUiexc">https://www.youtube.com/watch?v=ALcvbtUiexc</a>)
+1. 2021-12-03 PyTorch Intro (<a href="https://www.youtube.com/watch?v=ALcvbtUiexc">https://www.youtube.com/watch?v=ALcvbtUiexc</a>)
 
 
 <br/>
@@ -95,6 +98,10 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <br/>
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/PyTorch_202112/01.LearnTorch.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/PyTorch_202112/01.LearnTorch.pdf</a>
 <br/><br/>
+
+
+2. 2021-12-10 PyTorch Application (<a href="https://www.youtube.com/watch?v=TEv1pDR1rcs">https://www.youtube.com/watch?v=TEv1pDR1rcs</a>)
+
 
 ## **Introduction to Python in November 2021**
 <br>
