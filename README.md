@@ -1,5 +1,7 @@
 # **Microsoft Cloud Advocate 線上學堂**
 
+<img src="./imgs/logo.jpg" style="width:100%"/>
+
 2021年11月開始，Microsoft Cloud Advocate 線上學堂上線啦，為香港的程式開發人員，學生，同有志參與技術創新的朋友仔提供一系列線上學習課程。每個月會有一個技術專題，用我哋本土的語言進行分享，咁多位巴打記得留意啊。我哋會由Microsoft Reactor Youtube Channel 提供直播，大家記得上線觀看，當然我地為左方便大家更會有On Demand功能俾大家重溫所有課程。記得香港時間每個週五下午15:30 - 16:30 準時參加啊
 
 
