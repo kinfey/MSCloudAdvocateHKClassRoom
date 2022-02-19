@@ -112,7 +112,7 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 
 
 
-### **  Learn Azure - 2022 **
+### **  Learn Azure - 2022**
 
 
 1. 2022-02-18 Using Azure App Service to build web apps (<a href="https://www.youtube.com/watch?v=FAMFjZnNMPw&t=1072s">https://www.youtube.com/watch?v=FAMFjZnNMPw&t=1072s</a>)
