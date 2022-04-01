@@ -11,12 +11,33 @@
 
 
 1. 2022年2月18號 建立 Azure App Service Web 应用程式 (<a href="https://www.youtube.com/watch?v=FAMFjZnNMPw&t=1072s">https://www.youtube.com/watch?v=FAMFjZnNMPw&t=1072s</a>)
-
-
 <br/>
 <b>獲取相關資源</b><br/>
-<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220218-AzureAppService/AzureAppService.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220218-AzureAppService/AzureAppService.pdf</a>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220218-AzureAppService/AzureStaticWebApp.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220218-AzureAppService/AzureStaticWebApp.pdf</a>
 <br/><br/>
+
+
+2. 2022年2月25號 Azure Static Web Apps 入門 (<a href="https://www.youtube.com/watch?v=ZiRJuJGCf7E ">https://www.youtube.com/watch?v=ZiRJuJGCf7E</a>)
+<br/>
+<b>獲取相關資源</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220225-AzureStaticWebApp/AzureAppService.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220225-AzureStaticWebApp/AzureAppService.pdf</a>
+<br/><br/>
+
+
+3. 2022年3月11號 Azure Kubernetes Service 學習 (<a href="https://www.youtube.com/watch?v=FjzBz4qkhgA">https://www.youtube.com/watch?v=FjzBz4qkhgA</a>)
+<br/>
+<b>獲取相關資源</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220311-AKS/AKS.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220311-AKS/AKS.pdf</a>
+<br/><br/>
+
+
+4. 2022年4月1號 Azure Container Apps 學習 (<a href="hhttps://www.youtube.com/watch?v=ZEszCdUUaTU">https://www.youtube.com/watch?v=ZEszCdUUaTU</a>)
+<br/>
+<b>獲取相關資源</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220401-AzureContainerApps/ContainerApps.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220401-AzureContainerApps/ContainerApps.pdf</a>
+<br/><br/>
+
+
 
 
 ### **2021年12月  PyTorch學習**
@@ -122,6 +143,26 @@ Beginning in November 2021, the Microsoft Cloud Advocate online school is launch
 <b>Get Resources</b><br/>
 <a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220218-AzureAppService/AzureAppService.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220218-AzureAppService/AzureAppService.pdf</a>
 <br/><br/>
+
+
+2. 2022-02-25 Introduction Azure Static Web Apps  (<a href="https://www.youtube.com/watch?v=ZiRJuJGCf7E ">https://www.youtube.com/watch?v=ZiRJuJGCf7E</a>)
+<br/>
+<b>Get Resources</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220225-AzureStaticWebApp/AzureStaticWebApp.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220225-AzureStaticWebApp/AzureStaticWebApp.pdf</a>
+<br/><br/>
+
+3. 2022-03-11 Azure Kubernetes Service Learning (<a href="https://www.youtube.com/watch?v=FjzBz4qkhgA">https://www.youtube.com/watch?v=FjzBz4qkhgA </a>)
+<br/>
+<b>Get Resources</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220311-AKS/AKS.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/ 20220311-AKS/AKS.pdf</a>
+<br/><br/>
+
+
+4. 2022-04-01 Azure Container Apps Learning (<a href="hhttps://www.youtube.com/watch?v=ZEszCdUUaTU">https://www.youtube.com/watch?v=ZEszCdUUaTU </a>)
+<br/>
+<b>Get Resources</b><br/>
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/20220401-AzureContainerApps/ContainerApps.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/tree/main/Azure2022/ 20220401-AzureContainerApps/ContainerApps.pdf</a>
+<br/><br/> 
 
 ## **Introduction to PyTorch in December 2021**
 <br>
