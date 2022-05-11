@@ -6,7 +6,7 @@
 
 
 
-### **2021年11月  Azure Cognitive Service 動手實驗**
+### **2022年5月  Azure Cognitive Service 動手實驗**
 
 關於Azure Cognitive Service 知識的動手實驗，包括Computer Vision和Chatbot部分 
 
