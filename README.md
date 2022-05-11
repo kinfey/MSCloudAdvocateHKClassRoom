@@ -6,6 +6,14 @@
 
 
 
+### **2021年11月  Azure Cognitive Service 動手實驗**
+
+關於Azure Cognitive Service 知識的動手實驗，包括Computer Vision和Chatbot部分 
+
+**Slides 下載** 
+
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/AzureCogntiveServiceHandsOnLabHK_202205/PDF/AzureCognitiveServiceHOL.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/AzureCogntiveServiceHandsOnLabHK_202205/PDF/AzureCognitiveServiceHOL.pdf</a>
+
 
 ### **2022年  Azure系列**
 
@@ -130,6 +138,16 @@
 # **Microsoft Cloud Advocate Online School**
 
 Beginning in November 2021, the Microsoft Cloud Advocate online school is launched, providing a series of online learning courses for program developers, students, and friends who are interested in participating in technological innovation in Hong Kong. Every month, there will be a technical topic, which will be shared in our local language, so remember to pay attention to it. We will be live broadcast by the Microsoft Reactor Youtube Channel. Please remember to watch it online. Of course, we will have the On Demand function for your convenience, so that you can review all the courses. Remember to participate on time every Friday afternoon from 15:30-16:30 Hong Kong time.
+
+
+
+### **Azure Cognitive Service Hands On Lab in May 2022**
+
+About Azure Cognitive Service Hands On Lab，including Computer Vision and Chatbot
+
+**Download Slides：**
+
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/AzureCogntiveServiceHandsOnLabHK_202205/PDF/AzureCognitiveServiceHOL.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/AzureCogntiveServiceHandsOnLabHK_202205/PDF/AzureCognitiveServiceHOL.pdf</a>
 
 
 
