@@ -5,6 +5,18 @@
 2021年11月開始，Microsoft Cloud Advocate 線上學堂上線啦，為香港的程式開發人員，學生，同有志參與技術創新的朋友仔提供一系列線上學習課程。每個月會有一個技術專題，用我哋本土的語言進行分享，咁多位巴打記得留意啊。我哋會由Microsoft Reactor Youtube Channel 提供直播，大家記得上線觀看，當然我地為左方便大家更會有On Demand功能俾大家重溫所有課程。記得香港時間每個週五下午15:30 - 16:30 準時參加啊
 
 
+### **2022年 11月 醫療 AI 講座**
+
+了解 Microsoft Azure 如何通過提供數字化患者參與和改善臨床醫生體驗來幫助您的組織轉型，從而幫助降低運營成本、減少一線工作人員的倦怠並提供更便捷的醫療服務。
+
+- 醫療保健行業面臨哪些挑戰
+
+- 微軟 Azure 數據和人工智能服務組合
+
+- 全球和本地醫療保健用例（包括醫學 X 射線分析、醫學知識問答系統、藥丸識別等）
+
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/HealthCareAI_202211/HKHealthCare.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/HealthCareAI_202211/HKHealthCare.pdf</a>
+
 
 ### **2022年5月  Azure Cognitive Service 動手實驗**
 
@@ -140,6 +152,17 @@
 Beginning in November 2021, the Microsoft Cloud Advocate online school is launched, providing a series of online learning courses for program developers, students, and friends who are interested in participating in technological innovation in Hong Kong. Every month, there will be a technical topic, which will be shared in our local language, so remember to pay attention to it. We will be live broadcast by the Microsoft Reactor Youtube Channel. Please remember to watch it online. Of course, we will have the On Demand function for your convenience, so that you can review all the courses. Remember to participate on time every Friday afternoon from 15:30-16:30 Hong Kong time.
 
 
+### **November 2022 Medical AI Lecture**
+
+Learn how Microsoft Azure can help transform your organization by delivering digital patient engagement and improving the clinician experience to help reduce operating costs, reduce frontline worker burnout, and provide more convenient care.
+
+- What challenges does the healthcare industry face
+
+- Microsoft Azure Data and AI Services Portfolio
+
+- Global and local healthcare use cases (including medical X-ray analysis, medical question answering systems, pill identification, etc.)
+
+<a href="https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/HealthCareAI_202211/HKHealthCare.pdf">https://github.com/kinfey/MSCloudAdvocateHKClassRoom/blob/main/HealthCareAI_202211/HKHealthCare.pdf</a>
 
 ### **Azure Cognitive Service Hands On Lab in May 2022**
 
